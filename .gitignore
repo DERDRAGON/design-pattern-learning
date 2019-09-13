@@ -1,0 +1,33 @@
+/.settings/  
+/target/  
+  
+# built application files  
+*.apk  
+*.ap_  
+  
+# files for the dex VM  
+*.dex  
+  
+# Java class files  
+*.class  
+*.jar  
+  
+# generated files  
+bin/  
+gen/  
+  
+# Eclipse project files  
+.classpath  
+.project  
+.DS_Store
+.idea/design-pattern-learning.iml
+.idea/encodings.xml
+.idea/modules.xml
+.idea/workspace.xml
+/.idea/libraries/Maven__junit_junit_3_8_1.xml
+/.idea/compiler.xml
+/.idea/artifacts/design_pattern_learning_war.xml
+/.idea/vcs.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/misc.xml
+/.idea/artifacts/design_pattern_learning_war_exploded.xml
